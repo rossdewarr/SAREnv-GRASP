@@ -1,6 +1,6 @@
 # SAREnv: UAV Search and Rescue Dataset and Evaluation Framework
 
-##GRASP for UAV SAR
+# GRASP for UAV SAR
 - Forked SAREnv repository containing code and files for my 3rd year research project investigating Greedy Randomised Adaptive Search Proceadures for UAV-based SAR.
 - Ross Dewar - The University of Bristol
 - Email: ross.dewar.2023@bristol.ac.uk
