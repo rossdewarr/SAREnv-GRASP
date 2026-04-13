@@ -1,7 +1,7 @@
 # GRASP for UAV SAR
 - Forked SAREnv repository containing code and files for a 3rd year undergraduate research project investigating Greedy Randomised Adaptive Search Proceadures for UAV-based SAR.
 
-# ALGORITHM OUTLINE
+# Algorithm Outline
 - Greedy Randomised Construction
 - 1-Opt Local Search
 - Reactive Alpha Randomisation Parameter Selection
@@ -11,14 +11,14 @@
 
 The `examples/` directory contains an example script which runs the GRASP alogrithm: `04_1_evaluate_GRASP_path.py`
 
-# DEPENDENCIES
+# Dependencies
 All dependencies remain the same as the original SAREnv release. Follow all install instructions from the original README included below.
 
-# IP STATEMENT
+# IP Statement
 SAREnv is licensed under the MIT license which permits its use for both academic and commercial purposes.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# CONTACT
+# Contact
 - Ross Dewar - The University of Bristol
 - Email: ross.dewar.2023@bristol.ac.uk
 
