@@ -1,15 +1,35 @@
-# SAREnv: UAV Search and Rescue Dataset and Evaluation Framework
-
 # GRASP for UAV SAR
-- Forked SAREnv repository containing code and files for my 3rd year research project investigating Greedy Randomised Adaptive Search Proceadures for UAV-based SAR.
+- Forked SAREnv repository containing code and files for a 3rd year undergraduate research project investigating Greedy Randomised Adaptive Search Proceadures for UAV-based SAR.
+
+# ALGORITHM OUTLINE
+- Greedy Randomised Construction
+- 1-Opt Local Search
+- Reactive Alpha Randomisation Parameter Selection
+
+
+## 📁 Example Script
+
+The `examples/` directory contains an example script which runs the GRASP alogrithm: `04_1_evaluate_GRASP_path.py`
+
+# DEPENDENCIES
+All dependencies remain the same as the original SAREnv release. Follow all install instructions from the original README included below.
+
+# IP STATEMENT
+SAREnv is licensed under the MIT license which permits its use for both academic and commercial purposes.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# CONTACT
 - Ross Dewar - The University of Bristol
 - Email: ross.dewar.2023@bristol.ac.uk
+
+
+
+# SAREnv
+SAREnv is an open-access dataset and evaluation framework designed to support research in UAV-based search and rescue (SAR) algorithms. This toolkit addresses the critical need for standardized datasets and benchmarks in wilderness SAR operations, enabling systematic evaluation and comparison of algorithmic approaches including coverage path planning, probabilistic search, and information-theoretic exploration.
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/namurproject/sarenv)
-
-SAREnv is an open-access dataset and evaluation framework designed to support research in UAV-based search and rescue (SAR) algorithms. This toolkit addresses the critical need for standardized datasets and benchmarks in wilderness SAR operations, enabling systematic evaluation and comparison of algorithmic approaches including coverage path planning, probabilistic search, and information-theoretic exploration.
 
 ## 🎯 Project Goals
 
