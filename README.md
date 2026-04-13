@@ -72,10 +72,3 @@ git lfs install
 # Download the dataset files
 git lfs pull
 ```
-
-**Note**: The dataset files are stored in the `sarenv_dataset/` directory and are required to run the examples. If you prefer to generate your own dataset, you can skip this step and use the dataset generation functionality described below.
-
-
-```
-
-
