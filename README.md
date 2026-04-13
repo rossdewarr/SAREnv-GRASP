@@ -42,7 +42,7 @@ Thanks to Steve Bullock and Sid Reid for their supervision throughout the projec
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/sarenv.git
+git clone https://github.com/your-repo/sarenv-grasp.git
 cd sarenv
 
 # Install dependencies
