@@ -2,6 +2,8 @@ MIT License
 
 Copyright (c) 2026 Ross Dewar
 
+For the purposes of this license, the "Software" refers specifically to the implementation of the GRASP-based search and rescue algorithm contained within this repository, and does not include third-party tools, datasets, or external frameworks.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
